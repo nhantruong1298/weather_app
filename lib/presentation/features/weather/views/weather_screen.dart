@@ -321,7 +321,7 @@ class _PrecipitationChart extends StatelessWidget {
     );
   }
 
-  double get leftSideTitlesInterval => 4;
+  double get leftSideTitlesInterval => 10;
 
   double get maxHumidity {
     double maxHumidity = 0;
