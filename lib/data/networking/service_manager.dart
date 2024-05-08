@@ -10,7 +10,7 @@ class ServiceManager {
     final dio = WeatherDio(BaseOptions(
       baseUrl: "https://api.weatherapi.com",
       queryParameters: {
-        'key': '186e7721c5604ff3ab025233230111',
+        'key': 'PUT YOUR OPEN WEATHER API KEY HERE ',
       },
     ));
 
